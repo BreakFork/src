@@ -1,0 +1,54 @@
+[
+    {
+        "title": "Hello !",
+        "subtitle": "Bienvenue sur mon portfolio",
+        "intro": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa deserunt illo possimus suscipit quas tempore veritatis laborum. Facilis voluptate enim cum officiis porro dolore blanditiis ipsum autem ratione alias, corrupti sint aliquid velit quibusdam nesciunt dignissimos commodi voluptatibus qui molestias aut. Ducimus dolor iste iure deleniti repellendus ea accusantium, obcaecati eaque sequi architecto alias optio nihil. Laudantium excepturi, rem eum minima architecto perferendis animi non possimus nemo quidem quae mollitia inventore! Blanditiis natus minus dolorem non veritatis error incidunt! Accusantium qui aliquam voluptatem explicabo natus vitae doloremque exercitationem laudantium in fugiat, deserunt odio ullam deleniti quaerat totam consequatur rem pariatur.",
+        "picture": {
+            "src": "/../../images/IMG_1903.jpeg",
+            "alt": "Photo de Hervé Boulangué, developpeur Frontend"
+        },
+        "skillsSubtitle": "Mes compétences :",
+        "skillsList": [
+            {
+                "logo": "https://github.com/BreakFork/src/blob/main/public/img/skills/logo-1.svg",
+                "alt": "Logo de la technologie Javascript",
+                "name": "Javascript"
+            },
+            {
+                "logo": "https://github.com/BreakFork/src/blob/main/public/img/skills/logo-2.svg",
+                "alt": "Logo de la technologie HTML",
+                "name": "HTML"
+            },
+            {
+                "logo": "https://github.com/BreakFork/src/blob/main/public/img/skills/logo-3.svg",
+                "alt": "Logo de la technologie CSS",
+                "name": "CSS"
+            },
+            {
+                "logo": "https://github.com/BreakFork/src/blob/main/public/img/skills/logo-4.svg",
+                "alt": "Logo de la technologie SASS",
+                "name": "SASS"
+            },
+            {
+                "logo": "https://github.com/BreakFork/src/blob/main/public/img/skills/logo-5.svg",
+                "alt": "Logo de la technologie NodeJS",
+                "name": "NodeJS"
+            },
+            {
+                "logo": "https://github.com/BreakFork/src/blob/main/public/img/skills/logo-6.svg",
+                "alt": "Logo de la technologie Mongo DB",
+                "name": "Mongo DB"
+            },
+            {
+                "logo": "https://github.com/BreakFork/src/blob/main/public/img/skills/logo-7.svg",
+                "alt": "Logo de la technologie GitHub",
+                "name": "GitHub"
+            },
+            {
+                "logo": "https://github.com/BreakFork/src/blob/main/public/img/skills/logo-8.svg",
+                "alt": "Logo de la technologie React",
+                "name": "React"
+            }
+        ]
+    }
+]
